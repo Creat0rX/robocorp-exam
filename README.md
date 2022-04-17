@@ -1,13 +1,5 @@
-# Template: Standard Robot Framework
+# Robocorp exam
 
-Want to get started using [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) this is the simplest template to start from.
+This repository is only meant to serve as a means of submission to the [Robocorp exam Certificate II course](https://robocorp.com/docs/courses/build-a-robot)
 
-This template robot:
-
-- Uses [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) syntax.
-- Includes all the necessary dependencies and initialization commands (`conda.yaml`).
-- Provides a simple task template to start from (`tasks.robot`).
-
-## Learning materials
-
-- [All docs related to Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework)
+## This should in no means serve as any form of answers or answer templates as they are not guaranteed to be correct
